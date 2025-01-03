@@ -12,8 +12,10 @@ const Hero = () => {
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
           <Image
             className="lg:h-48 md:h-36 w-full object-cover object-center"
-            src="Health&Fitness.jpg"
+            src="/Health&Fitness.jpg"
             alt="blog"
+            width={720}
+            height={400}
           />
           <div className="p-6">
             <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">
@@ -38,8 +40,11 @@ const Hero = () => {
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
           <Image
             className="lg:h-48 md:h-36 w-full object-cover object-center"
-            src="Lifestyle-pic.jpg"
+            src="/Lifestyle-pic.jpg"
             alt="blog"
+            width={721}
+            height={401}
+
           />
           <div className="p-6">
             <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">
@@ -64,8 +69,11 @@ const Hero = () => {
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
           <Image
             className="lg:h-48 md:h-36 w-full object-cover object-center"
-            src="Technology-pic.jpg"
+            src="/Technology-pic.jpg"
             alt="blog"
+            width={722}
+            height={402}
+
           />
           <div className="p-6">
             <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">
@@ -96,8 +104,10 @@ const Hero = () => {
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
           <Image
             className="lg:h-48 md:h-36 w-full object-cover object-center"
-            src="Finance&Money.jpg"
+            src="/Finance&Money.jpg"
             alt="blog"
+            width={720}
+            height={400}
           />
           <div className="p-6">
             <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">
@@ -122,8 +132,10 @@ const Hero = () => {
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
           <Image
             className="lg:h-48 md:h-36 w-full object-cover object-center"
-            src="Food&Recipes.jpg"
+            src="/Food&Recipes.jpg"
             alt="blog"
+            width={721}
+            height={401}
           />
           <div className="p-6">
             <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">
@@ -148,8 +160,10 @@ const Hero = () => {
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
           <Image
             className="lg:h-48 md:h-36 w-full object-cover object-center"
-            src="Travel.jpg"
+            src="/Travel.jpg"
             alt="blog"
+            width={722}
+            height={402}
           />
           <div className="p-6">
             <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">
@@ -180,8 +194,10 @@ const Hero = () => {
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
           <Image
             className="lg:h-48 md:h-36 w-full object-cover object-center"
-            src="Education&Learning.jpg"
+            src="/Education&Learning.jpg"
             alt="blog"
+            width={720}
+            height={400}
           />
           <div className="p-6">
             <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">
@@ -206,8 +222,10 @@ const Hero = () => {
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
           <Image
             className="lg:h-48 md:h-36 w-full object-cover object-center"
-            src="Entertainment.jpg"
+            src="/Entertainment.jpg"
             alt="blog"
+            width={721}
+            height={401}
           />
           <div className="p-6">
             <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">
@@ -231,8 +249,11 @@ const Hero = () => {
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
           <Image
             className="lg:h-48 md:h-36 w-full object-cover object-center"
-            src="Social Media&Marketing.jpg"
+            src="/Social Media&Marketing.jpg"
             alt="blog"
+            width={722}
+            height={402}
+
           />
           <div className="p-6">
             <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">
