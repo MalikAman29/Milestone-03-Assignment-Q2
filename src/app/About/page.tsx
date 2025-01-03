@@ -11,7 +11,7 @@ const About = () => {
       </h1>
           
         <p className="leading-relaxed text-lg">
-        Welcome to Malik Aman's Blog! I'm M Aman-Ul-Haque, and this is my personal space 
+        Welcome to Malik Aman Blog! I am M Aman-Ul-Haque, and this is my personal space 
         on the internet where I share my love for topics like: travel, food, technology, lifestyle. 
         Here, I aim to provide valuable insights, tips, and inspiration to help you to solve a problem, 
         learn something new.
@@ -20,12 +20,12 @@ const About = () => {
         <p className="leading-relaxed text-lg">
         Here, you can expect to find types of content like: helpful guides, product reviews, 
         expert interviews, personal stories. My goal is to make your reading experience as enjoyable 
-        and rewarding as possible. I’m committed to providing content that is not only informative but also 
+        and rewarding as possible. I am committed to providing content that is not only informative but also 
         practical and actionable.
         </p>
        <p className="leading-relaxed text-lg">
        I believe in creating a community where we can all learn from each other and grow. 
-       If you’re passionate about [topic], you’ve come to the right place. Be sure to follow me on 
+       If you are passionate about [topic], you have come to the right place. Be sure to follow me on 
        [social media platforms] and subscribe to my newsletter to stay up-to-date with the latest posts.
        </p>
        <p className="leading-relaxed text-lg">
@@ -42,7 +42,7 @@ const About = () => {
     </div>
   </section>
   </div>
-  )
+  );
 }
 
 export default About

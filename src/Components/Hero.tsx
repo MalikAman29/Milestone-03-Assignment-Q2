@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import Link from 'next/link'
 import React from 'react'
 
@@ -9,7 +10,7 @@ const Hero = () => {
     <div className="flex flex-wrap -m-4">
       <div className="p-4 md:w-1/3">
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-          <img
+          <Image
             className="lg:h-48 md:h-36 w-full object-cover object-center"
             src="Health&Fitness.jpg"
             alt="blog"
@@ -35,7 +36,7 @@ const Hero = () => {
       </div>
       <div className="p-4 md:w-1/3">
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-          <img
+          <Image
             className="lg:h-48 md:h-36 w-full object-cover object-center"
             src="Lifestyle-pic.jpg"
             alt="blog"
@@ -61,7 +62,7 @@ const Hero = () => {
       </div>
       <div className="p-4 md:w-1/3">
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-          <img
+          <Image
             className="lg:h-48 md:h-36 w-full object-cover object-center"
             src="Technology-pic.jpg"
             alt="blog"
@@ -93,7 +94,7 @@ const Hero = () => {
     <div className="flex flex-wrap -m-4">
       <div className="p-4 md:w-1/3">
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-          <img
+          <Image
             className="lg:h-48 md:h-36 w-full object-cover object-center"
             src="Finance&Money.jpg"
             alt="blog"
@@ -119,7 +120,7 @@ const Hero = () => {
       </div>
       <div className="p-4 md:w-1/3">
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-          <img
+          <Image
             className="lg:h-48 md:h-36 w-full object-cover object-center"
             src="Food&Recipes.jpg"
             alt="blog"
@@ -145,7 +146,7 @@ const Hero = () => {
       </div>
       <div className="p-4 md:w-1/3">
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-          <img
+          <Image
             className="lg:h-48 md:h-36 w-full object-cover object-center"
             src="Travel.jpg"
             alt="blog"
@@ -177,7 +178,7 @@ const Hero = () => {
     <div className="flex flex-wrap -m-4">
       <div className="p-4 md:w-1/3">
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-          <img
+          <Image
             className="lg:h-48 md:h-36 w-full object-cover object-center"
             src="Education&Learning.jpg"
             alt="blog"
@@ -203,7 +204,7 @@ const Hero = () => {
       </div>
       <div className="p-4 md:w-1/3">
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-          <img
+          <Image
             className="lg:h-48 md:h-36 w-full object-cover object-center"
             src="Entertainment.jpg"
             alt="blog"
@@ -228,7 +229,7 @@ const Hero = () => {
       </div>
       <div className="p-4 md:w-1/3">
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-          <img
+          <Image
             className="lg:h-48 md:h-36 w-full object-cover object-center"
             src="Social Media&Marketing.jpg"
             alt="blog"
@@ -257,7 +258,7 @@ const Hero = () => {
 </section>
 
     </div>
-  )
+  );
 }
 
 export default Hero

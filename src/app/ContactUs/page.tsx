@@ -10,7 +10,7 @@ const ContactUs = () => {
         Contact Us
       </h1>
       <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-      Have a question, feedback, or just want to reach out? We're here to help. 
+      Have a question, feedback, or just want to reach out? We are here to help. 
       Use the form below or find our contact details.
       </p>
     </div>
@@ -70,7 +70,7 @@ const ContactUs = () => {
 </section>
 
     </div>
-  )
+  );
 }
 
 export default ContactUs
